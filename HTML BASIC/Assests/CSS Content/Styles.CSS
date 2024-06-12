@@ -1,0 +1,17 @@
+h1{
+    color: burlywood;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: brown;
+    font-style: italic;
+    text-align: justify;
+}
+.error{
+    color: red;
+
+}
+.success{
+    color: green;
+}
